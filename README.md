@@ -14,7 +14,7 @@ Two forms have been created, the first of which allows for the input of new game
 
 ## ERA model
 
-<img src="./era.png" height="400">
+<img src="./era.png" width="400">
 
 ## Demo
 
