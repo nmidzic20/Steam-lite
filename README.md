@@ -14,13 +14,13 @@ Two forms have been created, the first of which allows for the input of new game
 
 ## ERA model
 
-<img src="./era.png" height="700">
+<img src="img/era.png" height="700">
 
 ## Demo
 
-<img src="./form1.png" width="600">
-<img src="./form2.png" width="600">
-<img src="./form3.png" width="600">
-<img src="./form4.png" width="600">
-<img src="./form5.png" width="600">
-<img src="./form6.png" width="600">
+<img src="img/form1.png" width="600">
+<img src="img/form2.png" width="600">
+<img src="img/form3.png" width="600">
+<img src="img/form4.png" width="600">
+<img src="img/form5.png" width="600">
+<img src="img/form6.png" width="600">
